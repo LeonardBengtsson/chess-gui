@@ -1,4 +1,4 @@
-# leben-chess-gui
+# chess-gui
 
 Chess GUI application written in Rust, using the [ggez](https://crates.io/crates/ggez) game framework and [rsoderh_chess](https://github.com/INDA25PlusPlus/rsoderh-chess) chess library.
 
